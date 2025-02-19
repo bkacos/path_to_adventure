@@ -9,7 +9,18 @@ function example_function {
         echo -n "💔"
     fi
 }    
-precmd_functions+=(example_function)
+c
+
+
+function update_cottage {
+    if [[ $(score -q) -lt 8 ]]; then 
+        cp $RESOURCES/World/cottage/brycen /World/cottage/README
+    else 
+        cp $RESOURCES/World/cottage/rooster /World/cottage/README
+    fi
+
+}
+precmd_functions+=(update_cottage)
 
 #################################################################
 ##  PREEXEC FUNCTIONS HAPPEN RIGHT BEFORE COMMAND IS EXECUTED  ##

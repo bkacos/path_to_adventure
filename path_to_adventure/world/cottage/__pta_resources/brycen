@@ -1,0 +1,48 @@
+   ('
+        '|
+        |'
+       [::]
+       [::]   _......_
+       [::].-'      _.-`.
+       [:.'    .-. '-._.-`.
+       [/ /\   |  \        `-..
+       / / |   `-.'      .-.   `-.
+      /  `-'            (   `.    `.
+     |           /\      `-._/      \
+     '    .'\   /  `.           _.-'|
+    /    /  /   \_.-'        _.':;:/
+  .'     \_/             _.-':;_.-'
+ /   .-.             _.-' \;.-'
+/   (   \       _..-'     |
+\    `._/  _..-'    .--.  |
+ `-.....-'/  _ _  .'    '.|
+          | |_|_| |      | \  (o)
+     (o)  | |_|_| |      | | (\'/)
+    (\'/)/  ''''' |     o|  \;:;
+     :;  |        |      |  |/)
+ LGB  ;: `-.._    /__..--'\.' ;:
+          :;  `--' :;   :;
+
+This is your home. You live here. It is a ugly mushrooom in a 
+magical land of mystery and adventure. You hear the call of adventure ... uh
+... calling you. Get ready for your adventure.
+
+> To start, CREATE A TEXT FILE here called "name.txt" with your name in it. 
+  Bonus points if you can do it without using a text editor like nano.
+
+> During your adventures, you will encounter treasure. Find all the treasure and 
+  bring it back here. You'll need somewhere to put your treasure, though, so 
+  CREATE A DIRECTORY named "treasure_chest" right here in your ugly mushroom.
+
+  When you find a file with "treasure" in its name, you must MOVE it to your 
+  "treasure_chest" directory. Make sure to CAT it first, because there are some 
+  false treasures out there.
+
+> Now explore the path that lies before you. Use the commands "cd", "ls", and "pwd"
+  among others to navigate this world of adventure. Start by leaving home by typing
+  "cd .." at the prompt. This will take you to the world that contains your little cottage
+  
+> Each time you enter a new location, check to see if there is a README with "ls", and if 
+  there is a README, you should read it with "cat README"
+
+> Unless you are playing in HARD MODE, you can ask for help by typing "p2a-help"
