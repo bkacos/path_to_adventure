@@ -23,4 +23,4 @@ function cleanup {
   # Remove link from root of directory
   [[ -L /World ]] && sudo rm /World
 }
-trap cleanup EXIT HUP INT QUIT TERM
+trap cleanup EXIT HUP QUIT TERM
