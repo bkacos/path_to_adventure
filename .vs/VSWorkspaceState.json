@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\path_to_adventure",
+    "\\path_to_adventure\\world",
+    "\\path_to_adventure\\world\\cottage",
+    "\\path_to_adventure\\world\\cottage\\__pta_resources"
+  ],
+  "SelectedNode": "\\path_to_adventure\\world\\cottage\\__pta_resources\\achievements.sh",
+  "PreviewInSolutionExplorer": false
+}
